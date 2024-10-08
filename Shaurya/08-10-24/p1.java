@@ -45,3 +45,13 @@ class p1 {
             System.out.println("Words are: " + (sp + 1));
     }
 }
+
+// output
+// Enter a string: 
+// Hey! my name is Yash889618@gmail.com
+// Vowels are: 8
+// Consonents are: 15
+// Numbers are: 6
+// Spaces are: 4
+// Symbols are: 3
+//Words are: 5
