@@ -46,6 +46,11 @@ class p1 {
     }
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 9b34775 (Your commit message)
 // output
 // Enter a string: 
 // Hey! my name is Yash889618@gmail.com
@@ -54,4 +59,8 @@ class p1 {
 // Numbers are: 6
 // Spaces are: 4
 // Symbols are: 3
+<<<<<<< HEAD
 //Words are: 5
+=======
+//Words are: 5
+>>>>>>> 9b34775 (Your commit message)
